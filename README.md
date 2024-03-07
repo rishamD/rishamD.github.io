@@ -3,8 +3,8 @@
 Hello! In this README, I'll guide you through the process of hosting your resume on GitHub Pages. My aim is not only to provide technical steps but ensuring clarity, simplicity, and a user-centric approach in your documentation.
 
 ## Prerequisites:
-Resume [MyResume](https://github.com/rishamD/rishamD.github.io/blob/main/index.md).
-Guide [ReadMeGuide](https://www.makeareadme.com/).
+-Resume [MyResume](https://github.com/rishamD/rishamD.github.io/blob/main/index.md).
+-Guide [ReadMeGuide](https://www.makeareadme.com/).
 
 ## Principles
 1. **Simplicity:** Keep instructions clear and concise, avoiding unnecessary jargon or complexity.
