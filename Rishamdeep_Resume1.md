@@ -1,30 +1,48 @@
-﻿` `Rishamdeep Singh  
+# Rishamdeep Singh
+Email: [rishamdeep.singh@outlook.com](mailto:rishamdeep.singh@outlook.com)  
+<p align="center">
+Phone: (431) 778-3938  
+Location: Winnipeg, MB, Canada  
+</p>
 
-**Email**: <rishamdeep44@gmail.com> 		**Phone**: (431) 778 3938	  	Winnipeg, MB, Canada 
+## EDUCATION
+**Bachelor of Science, Computer Science**  
+_Expected Graduation: July 2025_  
+University of Manitoba  
+_Relevant Coursework: Machine Learning, Cloud Computing, Network Security, Advanced Database Systems, Web Development, Mobile Application Development, Computational Theory, Operating Systems_
 
+## TECHNICAL SKILLS
+- **Languages:** Python, TypeScript, Kotlin, Swift, SQL, NoSQL (MongoDB, Firebase)
+- **Tools/Frameworks:** Angular, Flask, Firebase, AWS (Amazon Web Services), Android Studio, Swift UI, Git, Docker, Kubernetes.
 
-# **EDUCATION**  
+## PROJECTS
 
-Bachelor of Science, Computer Science   	 	 	         Expected Graduation: June 2025  
+### Campus Navigator | Mobile App 
+_March 2024 - Present_
+- Led the creation of "Campus Navigator," a mobile application aimed at improving campus navigation for new students at the University of Manitoba.
+- Employed Kotlin for Android and Swift for iOS, delivering cross-platform functionality with features like interactive maps, event notifications, and personalized schedules.
+- Implemented RESTful APIs for data exchange and integrated Google Maps API for real-time location services.
 
-University of Manitoba 
+### EcoTracker | Web Application 
+_January 2024_
+- Engineered "EcoTracker," a web-based application designed to track and improve individuals' carbon footprints through daily activities.
+- Utilized Angular for the front end to create a user-friendly interface and Flask for the back end, ensuring efficient data processing and user management.
+- Incorporated a custom API for calculating and suggesting eco-friendly habits, contributing to user engagement and environmental awareness.
 
-**Relevant Coursework:** Software Engineering, Data Structures and Algorithms, Analysis of Algorithms, Databases Concepts and Usage, Mathematics of Data Science, Artificial Intelligence 
-## **TECHNICAL SKILLS**  
+### Personal Finance Manager 
+_September 2023 - Present_
+- Developed a comprehensive web application for personal finance management, assisting users in budgeting, expense tracking, and financial goal setting.
+- Designed the front end with Angular for a dynamic experience and the back end with Flask, providing robust data handling and security features.
+- Integrated Stripe API for real-time transaction processing and financial data analysis.
 
-- Languages: Java, JavaScript, Python, C, C++, Prolog, Processing.
+### Secure Chat Application 
+_May 2023_
+- Created a secure chat application emphasizing privacy and security in digital communication.
+- Used Python with Flask for the server-side to manage connections and data transfer securely.
+- Implemented end-to-end encryption using RSA and AES algorithms to ensure message confidentiality and integrity.
 
-## **PROJECTS**  
-
-
-## Ray Tracer | Using Processing – 							December 2023
-
-- I implemented a ray casting algorithm to trace rays from the camera through each pixel on the canvas. For each ray, I calculated intersections with the objects in the scene to determine what the ray hits.
-- I calculated lighting effects such as diffuse and specular reflections at each intersection point. I considered the positions and properties of light sources in the scene to determine how they contribute to the illumination of object.
-
-## Student Echo | Android App - [[GitLab](https://code.cs.umanitoba.ca/comp3350-winter2024/KeyValuePairs-a02-8)[\]](https://github.com/WilliamOdumah/Student-Echo)                                                                            January 2024 - Present 
-- I worked on an Android App that would let university of Manitoba students to rate their courses and professors.
-- I played a pivotal role in ensuring the reliability and functionality of Student Echo through rigorous testing protocols.
-- As a member of the development team, my primary responsibilities centered around testing and implementing critical components of the application, particularly the login manager and user interface (UI).
-
-[ref1]: Aspose.Words.db962e01-6f57-42f6-9d01-71f01b67711a.001.png
+## SOFT SKILLS
+- **Effective Communication:** Articulate communicator with a knack for conveying complex technical concepts to non-technical audiences.
+- **Team Collaboration:** Proven ability to work effectively in team settings, promoting a cooperative work environment.
+- **Problem-Solving:** Exceptional analytical skills with a strong focus on identifying problems and implementing innovative solutions.
+- **Time Management:** Skilled in managing multiple projects simultaneously without compromising quality or deadlines.
