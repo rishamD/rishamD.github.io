@@ -3,7 +3,7 @@
 Hello! In this README, I'll guide you through the process of hosting your resume on GitHub Pages. My aim is not only to provide technical steps but ensuring clarity, simplicity, and a user-centric approach in your documentation.
 
 ## Prerequisites:
-Resume [GitHub]([index.md](https://github.com/rishamD/rishamD.github.io/blob/main/index.md))
+Resume [GitHub](https://github.com/rishamD/rishamD.github.io/blob/main/index.md)
 
 
 ## Principles
