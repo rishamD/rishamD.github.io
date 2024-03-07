@@ -45,4 +45,5 @@ Before proceeding, ensure your resume is in Markdown format. If it's in another 
 - It should be something like `https://yourusername.github.io`.
 
 Congratulations! Your resume is now hosted on GitHub Pages and accessible to anyone with the provided link.
+![Resume GIF] (GifResume.gif)
 
