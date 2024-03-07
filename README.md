@@ -1,9 +1,12 @@
 # README: Hosting Your Resume on GitHub Pages
 
-Welcome to this guide on hosting your resume on GitHub Pages! In this README, we'll not only walk you through the technical steps but also demonstrate key principles outlined in Andrew Etter's "Modern Technical Writing" to ensure clarity, simplicity, and user-centricity in our documentation.
+Hello! In this README, I'll guide you through the process of hosting your resume on GitHub Pages. My aim is not only to provide technical steps but ensuring clarity, simplicity, and a user-centric approach in your documentation.
 
-## Key Principles:
+## Prerequisites:
+Resume [GitHub]([index.md](https://github.com/rishamD/rishamD.github.io/blob/main/index.md))
 
+
+## Principles
 1. **Simplicity:** Keep instructions clear and concise, avoiding unnecessary jargon or complexity.
 2. **Clarity:** Ensure each step is easy to understand, leaving no room for ambiguity.
 3. **User-centricity:** Anticipate the needs and questions of your audience, providing relevant information and addressing potential concerns.
