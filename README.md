@@ -13,8 +13,9 @@ If you don't have a GitHub account, visit [GitHub](https://github.com/) and sign
 ### 2. Create a New Repository:
 
 - Click on the "+" sign in the top right corner of your GitHub account and select "New repository."
-- ![AddToRepo](AddToRepo.png)
+ ![AddToRepo](AddToRepo.png)
 - Name your repository `yourusername.github.io`, replacing `yourusername` with your actual GitHub username.
+  ![NewRepo](NewRepo.png)
 - Optionally, add a description and choose whether to make it public or private (I recommend making it public so can use Github pages for free).
 
 ### 3. Prepare Your Resume:
