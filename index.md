@@ -1,5 +1,5 @@
 # Rishamdeep Singh
-Email: [rishamdeep.singh@outlook.com](mailto:rishamdeep.singh@outlook.com)  
+Email: [rishamdeep44@gmail.com](mailto:rishamdeep44@gmail.com)  
 <p align="center">
 Phone: (431) 778-3938  
 Location: Winnipeg, MB, Canada  
