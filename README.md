@@ -20,12 +20,13 @@ If you don't have a GitHub account, visit [GitHub](https://github.com/) and sign
 
 ### 3. Prepare Your Resume:
 
-Before proceeding, ensure your resume is in Markdown format. If it's in another format (e.g., Microsoft Word or PDF), you'll need to convert it to Markdown. You can use online converters or Markdown editors of your choice.
+Before proceeding, ensure your resume is in Markdown format. If it's in another format (e.g., Microsoft Word or PDF), you'll need to convert it to Markdown. You can use online converters or Markdown editors of your choice. We use lightweight markdown due to its simplicity and readability, enabling writers to focus on content creation without being bogged down by complex formatting, while also ensuring compatibility across various platforms and easy version control integration.
 
 ### 4. Upload Your Resume:
 
 - Once your repository is created, navigate to it.
 - Click on the "Add file" button and select "Upload files."
+  ![AddFile](AddFile.png)
 - Upload your Markdown resume file to the repository.
 
 ### 5. Enable GitHub Pages:
