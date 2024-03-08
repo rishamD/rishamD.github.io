@@ -27,7 +27,8 @@ Before proceeding, ensure your resume is in Markdown format. If it's in another 
 - Once your repository is created, navigate to it.
 - Click on the "Add file" button and select "Upload files."
 - Upload your Markdown resume file to the repository.
-![AddFile](AddFile.png#left)
+  
+  ![AddFile](AddFile.png#left)
 
 ### 5. Enable GitHub Pages:
 
