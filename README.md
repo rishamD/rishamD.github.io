@@ -21,6 +21,7 @@ If you don't have a GitHub account, visit [GitHub](https://github.com/) and sign
 ### 3. Prepare Your Resume:
 
 Before proceeding, ensure your resume is in Markdown format. If it's in another format (e.g., Microsoft Word or PDF), you'll need to convert it to Markdown. You can use online converters or Markdown editors of your choice. We use lightweight markdown due to its simplicity and readability, enabling writers to focus on content creation without being bogged down by complex formatting, while also ensuring compatibility across various platforms and easy version control integration.
+Rename it to "index.md" so it can be hosted on your username.github.io page.
 
 ### 4. Upload Your Resume:
 
@@ -28,7 +29,7 @@ Before proceeding, ensure your resume is in Markdown format. If it's in another 
 - Click on the "Add file" button and select "Upload files."
 - Upload your Markdown resume file to the repository.
   
-  ![AddFile](AddFile.png#left)
+  ![AddFile](AddFile.png)
 
 ### 5. Enable GitHub Pages:
 
@@ -36,6 +37,7 @@ Before proceeding, ensure your resume is in Markdown format. If it's in another 
 - In order to enable pages you need to make your repository public or buy Github premium.
 - Select "main" or "master" branch (depending on your default branch).
 - Click "Save."
+  ![GithubPages](GithubPages.png)
 ### 6. Access Your Hosted Resume:
 
 - After saving, scroll back down to the "GitHub Pages" section to find the link to your hosted resume.
