@@ -8,13 +8,14 @@ Hello! In this README, I'll guide you through the process of hosting your resume
 
 ### 1. Create a GitHub Account (if you haven't already):
 
-If you don't have a GitHub account, visit [GitHub](https://github.com/) and sign up for a free account.
+If you don't have a GitHub account, visit [GitHub](https://github.com/) and sign up for a free account. Online documentation ensures accessibility and searchability, facilitating easy access to information and efficient navigation through search functionality. Additionally, it enables version control allowing for easy updates. This is easily acheived by Github. 
 
 ### 2. Create a New Repository:
 
 - Click on the "+" sign in the top right corner of your GitHub account and select "New repository."
+- ![AddToRepo](AddToRepo.png)
 - Name your repository `yourusername.github.io`, replacing `yourusername` with your actual GitHub username.
-- Optionally, add a description and choose whether to make it public or private.
+- Optionally, add a description and choose whether to make it public or private (I recommend making it public so can use Github pages for free).
 
 ### 3. Prepare Your Resume:
 
