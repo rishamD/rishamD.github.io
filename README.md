@@ -55,4 +55,4 @@ My resume looks like the following.
 
 ### Additional Resources
 - Guide [ReadMeGuide](https://www.makeareadme.com/).
-
+- Hacker [Theme](https://github.com/pages-themes/hacker).
