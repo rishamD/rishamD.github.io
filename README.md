@@ -2,6 +2,7 @@
 
 Hello! In this README, I'll guide you through the process of hosting your resume on GitHub Pages. My aim is not only to provide technical steps but ensuring clarity, simplicity, and a user-centric approach in the documentation.
 - My Resume that is hosted on Github Pages [MyResume](https://rishamd.github.io).
+- You can check this repository at [Github](https://github.com/rishamD/rishamD.github.io).
 - You can follow the given steps to host your own resume.
 
 ## Step-by-Step Guide:
@@ -59,7 +60,7 @@ I would like to thank [DomPizzie](https://gist.github.com/DomPizzie) for the rea
 ## FAQs
 - Question - Why is Markdown better than a word processor? <br> Answer - Because Markdown is better for websites and it is free unlike Word's abysmal HTML exports.
   
-- Question - Why did my Jekyll theme not apply? <br> Answer - One reason maybe the code has a typo(in _config.yml) or the website is still building (I had another problem where i had spaces after my code in _config.yml, remving them fixed the theme for me).
+- Question - Why did my Jekyll theme not apply? <br> Answer - One reason maybe the code has a typo(in _config.yml) or the website is still building (I had another problem where i had spaces after my code in _config.yml, removing them fixed the theme for me).
  
 ## Additional Resources
 - Guide [ReadMeGuide](https://www.makeareadme.com/).
