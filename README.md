@@ -1,15 +1,8 @@
 # README: Hosting Your Resume on GitHub Pages
 
-Hello! In this README, I'll guide you through the process of hosting your resume on GitHub Pages. My aim is not only to provide technical steps but ensuring clarity, simplicity, and a user-centric approach in your documentation.
-
-## Prerequisites:
-- Resume [MyResume](https://github.com/rishamD/rishamD.github.io/blob/main/index.md).
-- Guide [ReadMeGuide](https://www.makeareadme.com/).
-
-## Principles
-1. **Simplicity:** Keep instructions clear and concise, avoiding unnecessary jargon or complexity.
-2. **Clarity:** Ensure each step is easy to understand, leaving no room for ambiguity.
-3. **User-centricity:** Anticipate the needs and questions of your audience, providing relevant information and addressing potential concerns.
+Hello! In this README, I'll guide you through the process of hosting your resume on GitHub Pages. My aim is not only to provide technical steps but ensuring clarity, simplicity, and a user-centric approach in the documentation.
+- My Resume that is hosted on Github Pages [MyResume](https://rishamd.github.io).
+- You can follow the given steps to host your own resume.
 
 ## Step-by-Step Guide:
 
@@ -47,4 +40,7 @@ Before proceeding, ensure your resume is in Markdown format. If it's in another 
 Congratulations! Your resume is now hosted on GitHub Pages and accessible to anyone with the provided link.
  
 ![ResumeGIF](GifResumeNew.gif)
+
+### Additional Resources
+- Guide [ReadMeGuide](https://www.makeareadme.com/).
 
