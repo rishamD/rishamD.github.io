@@ -53,11 +53,12 @@ My resume looks like the following.
 
 ![ResumeGIF](GifResumeNew.gif)  
 
-#### Authors and Acknowledgements
+## Authors and Acknowledgements
 I would like to thank [DomPizzie](https://gist.github.com/DomPizzie) for the readme template and would like to acknowledge my group members for their help.
 
 
-#### Additional Resources
+## Additional Resources
 - Guide [ReadMeGuide](https://www.makeareadme.com/).
 - Hacker [Theme](https://github.com/pages-themes/hacker).
 - Template [DomPizzie](https://gist.github.com/DomPizzie)
+- More [Jekyll Themes](https://jekyllrb.com/docs/themes/)
