@@ -47,18 +47,17 @@ Congratulations! Your resume is now hosted on GitHub Pages and accessible to any
 You can also add themes to your hosted file using jekyll by making a file called "_config.yml" and add the following code to use the "Hacker" theme  
 `remote_theme: pages-themes/hacker@v0.2.0`    
 `plugins:`    
-`\- jekyll-remote-theme`  
+`- jekyll-remote-theme`  
 
 My resume looks like the following.   
 
 ![ResumeGIF](GifResumeNew.gif)  
 
 #### Authors and Acknowledgements
-I would like to thank
-
-
+I would like to thank [DomPizzie](https://gist.github.com/DomPizzie) for the readme template and would like to acknowledge my group members for their help.
 
 
 #### Additional Resources
 - Guide [ReadMeGuide](https://www.makeareadme.com/).
 - Hacker [Theme](https://github.com/pages-themes/hacker).
+- Template [DomPizzie](https://gist.github.com/DomPizzie)
