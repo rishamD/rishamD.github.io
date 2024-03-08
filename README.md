@@ -59,7 +59,7 @@ I would like to thank [DomPizzie](https://gist.github.com/DomPizzie) for the rea
 ## FAQs
 - Question - Why is Markdown better than a word processor?
 - Answer - Because Markdown is better for websites and it is free unlike Word's abysmal HTML exports.\
-  \
+  
 - Question - Why did my Jekyll theme not apply?
 - Answer - One reason maybe the code has a typo(in _config.yml) or the website is still building (I had another problem where i had spaces after my code in _config.yml, remving them fixed the theme for me).
  
