@@ -45,9 +45,9 @@ Rename it to "index.md" so it can be hosted on your username.github.io page.
 
 Congratulations! Your resume is now hosted on GitHub Pages and accessible to anyone with the provided link.
 You can also add themes to your hosted file using jekyll by making a file called "_config.yml" and add the following code to use the "Hacker" theme  
-"remote_theme: pages-themes/hacker@v0.2.0  
+'remote_theme: pages-themes/hacker@v0.2.0  
 plugins:  
-- jekyll-remote-theme"
+ jekyll-remote-theme'
  
 ![ResumeGIF](GifResumeNew.gif)
 
