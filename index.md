@@ -57,10 +57,10 @@ Android Application University Project•January 2024 - April 2024
 Minor in Mathematics, Statistics•University of Manitoba•Winnipeg, Manitoba• 2025
 
 ## SKILLS
-Development Practices: Agile Development, SCRUM, DevOps, Version Control, Test-Driven Development (TDD), Code Modularity
-Soft Skills: Problem-Solving, Team Collaboration, Communication, Adaptability, Critical Thinking
-Programming Languages : Technologies: Python, Java, JavaScript, React.js, Node.js, Express.js, PostgreSQL, Android Studio
-Software Development: Object-Oriented Programming (OOP), Full-Stack Development, Mobile App Development, API Development, Database
+- Development Practices: Agile Development, SCRUM, DevOps, Version Control, Test-Driven Development (TDD), Code Modularity
+- Soft Skills: Problem-Solving, Team Collaboration, Communication, Adaptability, Critical Thinking
+- Programming Languages : Technologies: Python, Java, JavaScript, React.js, Node.js, Express.js, PostgreSQL, Android Studio
+- Software Development: Object-Oriented Programming (OOP), Full-Stack Development, Mobile App Development, API Development, Database
 Design, Frontend Architecture
 
 
