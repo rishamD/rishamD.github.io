@@ -1,8 +1,6 @@
 # Rishamdeep Singh
-
-```
 Winnipeg,Manitoba,Canada in/rishamdeep-singh-26b
-```
+
 ## SUMMARY
 
 
@@ -18,11 +16,10 @@ professional setting and continue growing as a developer.
 
 
 Advancement Services, University of Manitoba January 2025 - April 2025,Winnipeg, Manitoba
-Spearheaded the development of a scalable pipeline to extract structured data from obituaries and match them to alumni records using large
-language models (LLMs).
 
 ### •
-
+- Spearheaded the development of a scalable pipeline to extract structured data from obituaries and match them to alumni records using large
+language models (LLMs).
 - Designed and fine-tuned prompts for consistent JSON output across multiple LLM APIs, capturing key personal and academic attributes.
 - Built a weighted scoring matrix to benchmark model performance over 500+ real-world cases, incorporating priority-based evaluation metrics.
 - Applied fuzzy string matching to handle typographical errors and name variants, enhancing matching accuracy.
