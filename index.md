@@ -1,5 +1,5 @@
 # Rishamdeep Singh
-Winnipeg,Manitoba,Canada in/rishamdeep-singh-26b
+Winnipeg,Manitoba,Canada 
 
 ## SUMMARY
 
